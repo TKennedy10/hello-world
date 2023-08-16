@@ -1,5 +1,5 @@
 # hello-world
 Github Practice
 **Kennedy**
-*Likes: red pandas, video games, tennis*
+*Likes: red pandas*
 *Dislikes: mosquitoes*
